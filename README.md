@@ -1,2 +1,0 @@
-# PokemonWebSiteSebastianChisavo
-PokemonWebSite 
